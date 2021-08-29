@@ -42,6 +42,7 @@ evaluation metrics in the paper.
 
 -----
 
+Change directories accordingly.
 The usage of the different files are as follows:
 
 `probabilistic_model.py` Implements the equations used in case study 1 based on the
