@@ -7,7 +7,7 @@ An unsupervised framework for tracing textual sources of moral change
 ## Dependencies
 
 
-Requires `python >= 3.7`.
+Requires `python>=3.7`.
 
 ```python
 numpy
