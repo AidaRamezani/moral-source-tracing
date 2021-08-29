@@ -1,10 +1,10 @@
 Readme
 
 An unsupervised framework for tracing textual sources of moral change 
-
+=====================================================================
 
 This repository contains replication code for the paper: Ramezani, A., Zhu, Z., Rudzicz, F., and Xu, Y. An unsupervised framework for tracing textual sources of moral change. Findings of the Association for Computational Linguistics: EMNLP 2021 (to appear).
-=====================================================================
+
 
 
 ## Dependencies
